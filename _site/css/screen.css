@@ -18,19 +18,21 @@ body {
   width: 100%;
   padding-top: .8em;
 }
-a {
+.nav a, .main a.btn {
   text-decoration: none;
   text-transform: uppercase;
   color: #333;
 }
 .main {
-  font-size: 32px;
-  text-align: center;
   width: 50%;
   margin: 0 auto;
   padding: 2em 0;
 }
-.main a {
+p.lead {
+    font-size: 32px;
+    text-align: center;
+}
+.main a.btn {
   font-size: 13pt;
   font-weight: bold;
   color: #fff;
