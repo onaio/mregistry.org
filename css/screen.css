@@ -24,11 +24,13 @@ a {
   color: #333;
 }
 .main {
-  font-size: 32px;
-  text-align: center;
   width: 50%;
   margin: 0 auto;
   padding: 2em 0;
+}
+p.lead {
+    font-size: 32px;
+    text-align: center;
 }
 .main a {
   font-size: 13pt;
